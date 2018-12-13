@@ -1,0 +1,332 @@
+{
+    "上海": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "ICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "CCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "SHCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "ABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "SHBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "COMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "SHCIB"
+        }
+    ],
+    "北京": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "BJICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "BJCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "BJCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "BJABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "BJBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "BJCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "BJCIB"
+        }
+    ],
+    "江苏": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "NJICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "NJCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "NJCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "NJABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "NTBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "JSCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "JSCIB"
+        }
+    ],
+    "山东": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "SDICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "SDCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "SDCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "SDABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "SDBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "SDCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "SDCIB"
+        }
+    ],
+    "广东": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "GDICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "GDCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "GDCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "GDABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "GDBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "GDCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "GDCIB"
+        }
+    ],
+    "河北": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "HBICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "HBCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "HBCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "HBABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "HBBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "HBCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "HBCIB"
+        }
+    ],
+    "湖北": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "WHICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "WHCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "WHCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "WHABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "WHBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "WHCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "WHCIB"
+        }
+    ],
+    "福建": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "FJICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "FJCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "FJCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "FJABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "FJBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "FJCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "FJCIB"
+        }
+    ],
+    "四川": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "SCICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "SCCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "SCCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "SCABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "SCBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "SCCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "SCCIB"
+        }
+    ],
+    "天津": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "TJICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "TJCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "TJCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "TJABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "TJBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "TJCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "TJCIB"
+        }
+    ],
+    "浙江": [
+        {
+            "bankName": "工商银行",
+            "bankCode": "ZJICBC"
+        },
+        {
+            "bankName": "建设银行",
+            "bankCode": "ZJCCB"
+        },
+        {
+            "bankName": "招商银行",
+            "bankCode": "ZJCMB"
+        },
+        {
+            "bankName": "农业银行",
+            "bankCode": "ZJABC"
+        },
+        {
+            "bankName": "中国银行",
+            "bankCode": "ZJBOC"
+        },
+        {
+            "bankName": "交通银行",
+            "bankCode": "ZJCOMM"
+        },
+        {
+            "bankName": "兴业银行",
+            "bankCode": "ZJCIB"
+        }
+    ]
+}
